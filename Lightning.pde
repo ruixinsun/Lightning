@@ -6,8 +6,8 @@ int endY = 150;
 void setup()
 {
   size(300,300);
-  strokeWeight(10);
-  background(0);
+  strokeWeight(1);
+  background(0,0,200);
 }
 void draw()
 {
@@ -25,3 +25,4 @@ void mousePressed()
 {
   
 }
+
